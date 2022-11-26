@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 score day3:400-9
+=======
+predicted score: Day1 123-10
+and i am not happy certainly
+>>>>>>> predicted-score
